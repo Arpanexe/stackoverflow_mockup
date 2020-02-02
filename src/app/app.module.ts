@@ -12,7 +12,7 @@ import { AuthenticationModule } from './authentication/authentication.module';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    AuthenticationModule,    
+    AuthenticationModule   
   ],
   providers: [],
   bootstrap: [AppComponent]
